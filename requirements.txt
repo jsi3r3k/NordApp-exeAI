@@ -1,2 +1,6 @@
-fastapi
-uvicorn[standard]
+fastapi==0.140.0
+uvicorn[standard]==0.51.0
+numpy==1.26.4
+torch==2.2.2
+transformers==4.40.2
+sentence-transformers==2.7.0
